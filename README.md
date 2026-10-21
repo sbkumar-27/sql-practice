@@ -21,13 +21,13 @@ documenting my journey from SQL fundamentals to advanced database concepts.
 
 | No. | Topic | Status |
 |---|---|---|
-| 01 | SQL Basics | In Progress |
+| 01 | SQL Basics | Done |
 | 02 | Filtering and Sorting | Upcoming |
 | 03 | SQL Functions | Upcoming |
 | 04 | Grouping and Aggregation | Upcoming |
 | 05 | Joins | Upcoming |
 | 06 | Subqueries | Upcoming |
-| 07 | Data Modification | Upcoming |
+| 07 | Data Modification | Done |
 | 08 | Constraints and Keys | Upcoming |
 | 09 | Advanced SQL | Upcoming |
 | 10 | Practice Projects | Upcoming |

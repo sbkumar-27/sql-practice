@@ -1,0 +1,2 @@
+UPDATE table SET c3=10.2 WHERE c1=20;
+
